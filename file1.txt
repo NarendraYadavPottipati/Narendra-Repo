@@ -3,3 +3,7 @@ This is file1 created by Narendra
 Adding a new line by Narendra
 
 Adding one more line from locla repository
+
+I want to compare two files
+
+Hello everyone
